@@ -85,6 +85,7 @@ Do CTRL + L
 - Supported versions:
 
 ```diff
+1.17.30
 1.17.11
 1.17.10
 1.17.2
@@ -125,9 +126,11 @@ Hitboxes (they dont show through blocks/walls so it's not esp)
 Waypoints (.waypoint in mc chat to get clear instructions)
 FPS Counter
 Clock
+TNT Timer
 Keystrokes
 Coordinates
 Server ip
+Creative Tools
 CPS counter
 Direction HUD
 Speed display
