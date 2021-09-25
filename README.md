@@ -85,6 +85,7 @@ Do CTRL + L
 - Supported versions:
 
 ```diff
+1.17.30
 1.17.11
 1.17.10
 1.17.2
@@ -134,6 +135,8 @@ Speed display
 Reach Display
 Combo Counter
 Pack display
+TNT Timer
+Creative Tools
 Armor HUD
 Movable paperdoll
 Flappy bird
