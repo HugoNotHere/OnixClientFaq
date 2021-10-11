@@ -1,9 +1,9 @@
 # Onix Client FAQ
 
-[Join the onix discord for support, downloads and chats with the other 66k members.](https://dsc.gg/onix-client)
+[Join the onix discord for support, downloads and chats with the other 71k members.](https://dsc.gg/onix-client)
 
 ## Non questions:
-### Will there ever be x device supported support??
+### Will there ever be x device supported support?
 - onix is not supported on anything other then windows 10/11 64 bit currently, if you ask/suggest for it, people will most likely be toxic to you.
 
 ### When I open the client I get a error saying You are attempting to open a file of type "system file", why does this happen??
