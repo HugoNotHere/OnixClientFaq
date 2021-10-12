@@ -204,7 +204,6 @@ Added support for 1.17.34
 - Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort.
 - How to Disable/Exclude files in common antiviruses:
 
-
 **Windows Security**
 
 
