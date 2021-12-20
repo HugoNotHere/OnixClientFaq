@@ -13,7 +13,7 @@ To download the Onix Client go to the [#download](https://discord.com/channels/8
 - Use the Onix Injector and download the DLL. Select the DLL. Then, launch Minecraft and go back into the injector. Once, Minecraft loads click Inject.
 - You can use a third-party injector but we cannot ensure that it will work properly and it is safe for public use.
 
-## Is Onix Client safe?
+## 🔒 Is Onix Client safe?
 
 Yes, we can assure that Onix Client is 100% safe for use. Your antivirus might flag it because it injects a DLL into the game. However, due note these things:
 - Our injector can only inject into Minecraft, other viruses attack other applications, if not all.
