@@ -33,3 +33,38 @@ To find out whether you can use Onix Client or not check this out:
 - If your PC is ARM or Qualcomm based, you can't use Onix Client either.
 
 ### We have no plan to support any other device other than Windows 10/11. Please do not ask, it is just annoying and people may be toxic to you.
+
+## 🌊 When I open the client, I get a error saying: "You are attempting to open a file of type 'system file'", why does this happen?
+
+This is because you are trying to open the DLL, which only works with other injectors. The dll file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. Due, note if you use a third-party injector, we are not responsible for anything that may happen.
+
+## 🔧 Can I turn off or customize the "OnixClient on top!" splash text?
+
+No, this is to tell whether Onix client has been injected properly. If this does not show up a few seconds after injecting the client, then you know something is wrong, and it wasn't done right. This feature is mainly just for testing and support purposes.
+
+## 🐞 When I inject, my game crashes. Why does this happen?
+
+Your game is probably in a version that Onix Client does not support. If you are below 1.16.40, you will need to upgrade to higher version. If you are below, the latest supported version, you will need to downgrade. You can find a great version switcher [here](https://github.com/MCMrARM/mc-w10-version-launcher)! To check if you are using a verison Onix Client supports make sure you can find your version in this list:
+
+```
+1.18.2
+1.18.1
+1.18.0
+1.17.41
+1.17.40
+1.17.34
+1.17.32
+1.17.30
+1.17.11
+1.17.10
+1.17.2
+1.17.0
+1.16.221
+1.16.220
+1.16.210
+1.16.201
+1.16.200
+1.16.100
+1.16.101
+1.16.40
+```
