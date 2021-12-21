@@ -36,7 +36,7 @@ To find out whether you can use Onix Client or not check this out:
 
 ## 🌊 When I open the client, I get a error saying: "You are attempting to open a file of type 'system file'", why does this happen?
 
-This is because you are trying to open the DLL, which only works with other injectors. The dll file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. Due, note if you use a third-party injector, we are not responsible for anything that may happen.
+This is because you are trying to open the DLL, which only works with other injectors. The dll file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. Due, note if you use a third-party injector, we are not responsible for anything that may happen. Read more [here](https://github.com/HugoNotHere/OnixClientFaq/blob/main/README.md#-where-can-i-download-onix-client)
 
 ## 🔧 Can I turn off or customize the "OnixClient on top!" splash text?
 
@@ -68,3 +68,9 @@ Your game is probably in a version that Onix Client does not support. If you are
 1.16.101
 1.16.40
 ```
+
+## 🧥 Why does it say "as nobody (HOW)" on Discord instead of my Gamertag?
+
+If this is happening make sure you have the Xbox Console Companion, which you can download [here](https://www.microsoft.com/en-us/p/xbox-console-companion/9wzdncrfjbd8#activetab=pivot:overviewtab). Log in, and it should show up after restarting Onix Client.
+
+If you have already downloaded Xbox Console Companion, log out and log back in. This should fix it.
