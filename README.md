@@ -215,3 +215,117 @@ Turn off "Hide Tile Entities".
 Say ```.theme``` in chat to reveal the theme editor. To share themes, go to your Onix Client folder and find the file called ```theme.txt```. To use a theme made by someone else, make sure Minecraft is closed, then delete the ```theme.txt``` file from the Onix folder (```%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\```) and replace it with your desired theme. There isn't a theme manager like the config one (.config) and there probably never will be because Onix doesn't want to make it.
 
 ## 💜 How do I reset a color/module?
+
+Middle click the change color button or the module in the Onix GUI. You can middle click by pressing the scroll wheel down, or clicking with 3 fingers on a trackpad.
+
+## 🔻 How do I remove the red arrow from minecraft?
+
+Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+by+Mhavin.mcpack/file) and apply it. The reason why it exists is because the pack maker/porter of one of your packs never updated hud_screen.json. The bug report and discussion can be found [here](https://bugs.mojang.com/browse/MCPE-105882).
+
+![Red Arrow Bug](https://camo.githubusercontent.com/611f29fa85267ae8044cf1a3238a2afb2383d681bb7bbdf31c1a2f646c7d4f43/68747470733a2f2f696d616765732d6578742d312e646973636f72646170702e6e65742f65787465726e616c2f5861544a716e464b70546d5676705a527349556a69625272533143684442386e5a434a473078756b4c33452f68747470732f6875676f2e706c656173652d656e642e6d652f6f67702f35386e4d69557748642e706e67)
+
+## 📋 Where can I find the latest changelog?
+
+### Changelog for OnixClient 2.69
+
+```
+- various fixes for Item Physics in version 1.18.0
+- killing mobs or reloading item entities will still cause them to spin forever as if they were still in air, this is a 1.18 issue where items are actually flying over the ground.
+- various bug fixes for Keystrokes
+- limited the Creative Tools autoclicker to 200 CPS
+- custom crosshair will now disable itself if an invalid crosshair is selected
+- improved the description for Waypoint and Audio Subtitles
+- fixed an issue where loading the modules far from the corners reposition to incorrect spots
+- fixed an issue when migrating a config from the previous update that would cause a blank gui 
+- added support for 1.18.2
+```
+
+## 🦠 My antivirus blocks the client.
+
+Depending on the antivirus that you're using, you should either turn it off so you can download the client or you can exclude the client from being flagged. Onix Client is not a virus of any sort. The launcher is open source; the source code can be viewed [here](https://github.com/notcarlton/OnixLauncher) if you want to compile it yourself or check if the code is safe.
+
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><strong>Antivirus</strong></th>
+<th style="text-align:center"><strong>Exclude Links</strong></th>
+<th style="text-align:center"><strong>Disable Links</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Windows Defender</td>
+<td style="text-align:center"><a href="https://bit.ly/3amcRre">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dt5Rec">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Norton</td>
+<td style="text-align:center"><a href="https://bit.ly/3t8FqA3">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/2RptJXE">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Malwarebytes</td>
+<td style="text-align:center"><a href="https://bit.ly/3s0zmbf">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dS2D2Y">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">McAfee</td>
+<td style="text-align:center"><a href="https://bit.ly/3oNrNqp">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3g2nbIG">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Avast</td>
+<td style="text-align:center"><a href="https://bit.ly/3wImlqq">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3uEzkrj">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">BitDefender</td>
+<td style="text-align:center"><a href="https://bit.ly/3d53Kgy">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/2RjRDnf">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Kaspersky Internet Security</td>
+<td style="text-align:center"><a href="https://bit.ly/33viG54">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3GVMfv0">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Quick Heal</td>
+<td style="text-align:center"><a href="https://bit.ly/3quUbws">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3AbYIYS">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">AVG</td>
+<td style="text-align:center"><a href="https://bit.ly/3hfyeNG">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dxe1BM">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Webroot</td>
+<td style="text-align:center"><a href="https://bit.ly/3hF8uuf">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/36jG1Vw">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Panda/Panda Dome</td>
+<td style="text-align:center"><a href="https://bit.ly/3jPIIpN">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3dSmRug">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Spectrum F-Secure</td>
+<td style="text-align:center"><a href="https://bit.ly/3ei1Zg4">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3hGm81B">Disable</a></td>
+</tr>
+<tr>
+<td style="text-align:center">PCMatic</td>
+<td style="text-align:center"><a href="https://bit.ly/3lmM701">Exclude</a></td>
+<td style="text-align:center"><a href="https://bit.ly/3ikdGFs">Disable</a></td>
+</tr>
+</tbody>
+</table>
+
+### Info for Avira users
+Avira will not let you use Onix Client, even if it's disabled. We recommend you uninstall Avira until we get this issue sorted out with them.
+
+If you have an antivirus that's not included here or if a link stops working, DM me [@ItzHugo#2308](https://discord.com/users/731013984710426694) so I can fix it.
+
+## 🤝 Contributing
+
+You can contribute to this FAQ by making a fork of this project, editing it, and submitting a pull request. All **valid** help is accepted and is encouraged. Thank you for reading and helping to make this better!
