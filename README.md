@@ -115,3 +115,80 @@ Hold CTRL + L.
 ## 💺 What's the latest version of the client?
 
 The current latest version is 2.51🎨 .
+
+## ⚙️ What features do we have in the client?
+
+```
+Zoom
+Fullbright
+Freelook (360 perspective)
+Environment Changer
+Java Debug Menu
+Toggle Sprint/Sneak
+Auto GG
+Chunk Borders
+Render Options
+Third Person Nametag
+Block Outline/Overlay
+Custom Crosshairs
+Hitboxes (they don't show through blocks/walls)
+Waypoints (.waypoint in mc chat to get clear instructions)
+FPS Counter
+Clock
+Keystrokes
+Coordinates
+Server IP Display
+CPS Counter
+Direction HUD
+Speed Display
+Reach Display
+Combo Counter
+Pack Display
+Armor HUD
+Movable Paperdoll
+Flappy Bird
+Snake
+Potion HUD
+Audio Subtitles
+Player List Tab
+Hurt Color
+Light Overlay
+TNT Timer
+Creative Tools (cheats that you can use when you are operator)
+Item Physics
+Theme Editor (say .theme in chat)
+.Commands 
+Module Search
+Client Side Nick (.nick)
+```
+
+Say ```.help``` in chat for complete list of Onix commands.
+
+## 🗝️ How do I open module settings?
+
+Press L or Insert, then click "Module Settings".
+
+## 🎥 How do I apply for YouTube Role/Rank (@Youtuber)?
+
+Requirements:
+- 750+ Subs
+- A video about Onix Client If you meet the requirements, open a ticket.
+
+## 🔨 Do I get beta access if I boost?
+
+Yes, now that the Epic Games Nitro promotion is over, if you boost our discord you get access to [#beta-announcments](https://discord.com/channels/814195071356370977/900851856857788486) and [#beta-chat](https://discord.com/channels/814195071356370977/900851856857788486). You also get [#cool-chat](https://discord.com/channels/814195071356370977/853207500832374784) and image/embed perms in [#général](https://discord.com/channels/814195071356370977/852356013395148850).
+
+## 📄 How do you get the default Minecraft font, Minecraftia?
+
+To enable Minecraftia font, open the module settings and enable "Minecraftia Font" on the right.
+
+## 📌 I need the Onix logo for a thumbnail!
+
+![Onix logo example](https://camo.githubusercontent.com/3fac536f5f29bd1c95871f3803696630408cab73161c2c4bb242d80366ac1249/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3831343636353436303534343833313532382f3832363334383333333633303335373536342f4f6e69785f4c6f676f2e706e67)
+![Onix logo example](https://camo.githubusercontent.com/d7a466f177808d18e2574092dd320ac5a26f8cc6c81ecf412d95ab1c6405178b/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3831343139353738393833393436363539362f3837363732303534393731303135313732302f696d616765302e706e673f77696474683d363232266865696768743d363232)
+![Onix logo example](https://camo.githubusercontent.com/63fb5b9391792bee79fae1e73fe472f4e3b99af2b666db8c7105941135d7058c/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835323335363031333339353134383835302f3837373538353634323636303433333935302f6f6e69783273617475722e706e67)
+![Onix logo example](https://camo.githubusercontent.com/aa9b4bb8abbdae246b47c8f7ea4a591ab3aff47f87d81da21197a2e9c263f79b/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3833303735333338373433353738363237312f3839373531383037323435363433373834302f4f6e69784c6f676f42757448616c6c6f7765656e2e706e67)
+![Onix logo example](https://camo.githubusercontent.com/a5742cdd28af00abcc1e85dee5e202ff4e91d2b64067c194351020c8cfba1978/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3833303735333338373433353738363237312f3839373532313538363132313335393336302f42616e6e65722e706e67)
+![Onix logo example](https://camo.githubusercontent.com/15e3694b508fa5e1d6fe48f269d62351d07a1744684b427e07ac3e1fdf8519c2/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835333331323432353032353230383336302f3931353333353132383335343532353233342f30413941444138362d353231392d313145432d413532462d3032333437413334383845372e676966)
+![Onix logo example](https://camo.githubusercontent.com/0f93c185650659afe79f6af5d9c60b02f936fd8d8f63c373d6ad1e67118b1a79/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835333331323432353032353230383336302f3931353333353332353035343830383037342f4f6e69785f4368726973746d61735f4c6f676f5f46696e616c655f56325f7468696e67792e706e673f77696474683d393839266865696768743d393839)
+![Onix logo example](https://camo.githubusercontent.com/55cc9dae7af7c8c8d4e6478740a570dce13ec29a34c7f0208e8482c3ad0aa1a9/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835333331323432353032353230383336302f3931353333353330353435303633393433302f46696e616c5f42616e6e65725f4f6e69782e706e673f77696474683d31373538266865696768743d393839)
