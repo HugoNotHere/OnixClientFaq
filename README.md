@@ -36,7 +36,7 @@ To find out whether you can use Onix Client or not check this out:
 
 ## 🌊 When I open the client, I get a error saying: "You are attempting to open a file of type 'system file'", why does this happen?
 
-This is because you are trying to open the DLL, which only works with other injectors. The dll file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. Due, note if you use a third-party injector, we are not responsible for anything that may happen. Read more [here](https://github.com/HugoNotHere/OnixClientFaq/blob/main/README.md#-where-can-i-download-onix-client)
+This is because you are trying to open the DLL, which only works with other injectors. The dll file cannot be opened and is not meant to be either. If you want to use this method please check out the Onix injector. Due, note if you use a third-party injector, we are not responsible for anything that may happen. Read more [here](https://github.com/HugoNotHere/OnixClientFaq/blob/main/README.md#-where-can-i-download-onix-client).
 
 ## 🔧 Can I turn off or customize the "OnixClient on top!" splash text?
 
