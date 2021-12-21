@@ -74,3 +74,13 @@ Your game is probably in a version that Onix Client does not support. If you are
 If this is happening make sure you have the Xbox Console Companion, which you can download [here](https://www.microsoft.com/en-us/p/xbox-console-companion/9wzdncrfjbd8#activetab=pivot:overviewtab). Log in, and it should show up after restarting Onix Client.
 
 If you have already downloaded Xbox Console Companion, log out and log back in. This should fix it.
+
+## Architecture Error
+![Architecture Error](https://user-images.githubusercontent.com/64127681/139365553-b57f8306-24de-4b1d-b0c8-5ff4b5fc9c95.png)
+
+If this shows up, you probably have a 32-bit version of Minecraft. This is usually branded under FPS Boosting or Lag Free AppX files. However, this is not compatible with Onix Client.
+
+## Unsupported Version
+![Unsupported Version](https://user-images.githubusercontent.com/64127681/139366307-d319f1ea-36c3-4978-b8ba-ad3cd891141e.png)
+
+You have a version of Minecraft that is not supported, you can see this list of supported versions [here](https://github.com/notJudahRR/OnixClientFaq#-when-i-inject-my-game-crashes-why-does-this-happen).
