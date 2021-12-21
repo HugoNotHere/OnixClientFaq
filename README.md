@@ -192,3 +192,26 @@ To enable Minecraftia font, open the module settings and enable "Minecraftia Fon
 ![Onix logo example](https://camo.githubusercontent.com/15e3694b508fa5e1d6fe48f269d62351d07a1744684b427e07ac3e1fdf8519c2/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835333331323432353032353230383336302f3931353333353132383335343532353233342f30413941444138362d353231392d313145432d413532462d3032333437413334383845372e676966)
 ![Onix logo example](https://camo.githubusercontent.com/0f93c185650659afe79f6af5d9c60b02f936fd8d8f63c373d6ad1e67118b1a79/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835333331323432353032353230383336302f3931353333353332353035343830383037342f4f6e69785f4368726973746d61735f4c6f676f5f46696e616c655f56325f7468696e67792e706e673f77696474683d393839266865696768743d393839)
 ![Onix logo example](https://camo.githubusercontent.com/55cc9dae7af7c8c8d4e6478740a570dce13ec29a34c7f0208e8482c3ad0aa1a9/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3835333331323432353032353230383336302f3931353333353330353435303633393433302f46696e616c5f42616e6e65725f4f6e69782e706e673f77696474683d31373538266865696768743d393839)
+
+## 🖼️ I want pictures of the Onix Launcher and Injector!
+
+![Onix injector/launcher example](https://camo.githubusercontent.com/deebd779f5e2e830636e2d8c7e51a29f4110cfc75f5a7ec0b1915587738b7854/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3738353931303732353439393432303639362f3838303834323334323736373136313336342f756e6b6e6f776e2e706e67)
+![Onix injector/launcher example](https://user-images.githubusercontent.com/64127681/139374739-a69c085f-ce7b-4e17-93d6-0cfdd6437d0f.png)
+
+## 🧪 Why don't the PotionHUD icons show up?
+
+One of your texture packs, probably broke them. But don't worry, we have a PotionHUD Fixer [here](https://cdn.discordapp.com/attachments/852320290750726145/874753455418388550/PotionFix.mcpack)! Due note: this pack may break custom hotbars/XP bars.
+
+## ⚠️ Why does the Onix launcher/injector give me a .NET Framework error when I open it?
+
+Make sure both the [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net48) and [Visual C](https://aka.ms/vs/16/release/vc_redist.x64.exe) runtimes are installed, then try to reopen it.
+
+## 🛏️ When I have render options on, I can't see beds and chests and other blocks.
+
+Turn off "Hide Tile Entities".
+
+## 🖌️ How do I change the theme of my Onix GUI?
+
+Say ```.theme``` in chat to reveal the theme editor. To share themes, go to your Onix Client folder and find the file called ```theme.txt```. To use a theme made by someone else, make sure Minecraft is closed, then delete the ```theme.txt``` file from the Onix folder (```%localappdata%\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\RoamingState\OnixClient\```) and replace it with your desired theme. There isn't a theme manager like the config one (.config) and there probably never will be because Onix doesn't want to make it.
+
+## 💜 How do I reset a color/module?
