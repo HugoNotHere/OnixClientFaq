@@ -1,3 +1,49 @@
+<details>
+   <summary>➜ Click here to Jump directly to:</summary>
+
+<ul>
+<li><p><a href="#-where-can-i-download-onix-client">Download Client</a></p></li>
+
+<li><p><a href="#%EF%B8%8F-what-features-do-we-have-in-the-client">Client Features</a></p></li>
+
+<li><p><a href="#-where-can-i-find-the-latest-changelog">Latest Changelog</a></p></li>
+
+<li><p><a href="#-is-onix-client-safe">Is it safe?</a></p></li>
+
+<li><p><a href="#-how-can-i-get-onix-ui">Onix UI</a></p></li>
+
+<li><p><a href="#-what-devices-does-onix-client-support">Device Support</a></p></li>
+
+<li><p><a href="#list-of-supported-versions">Supported Versions</a></p></li>
+
+<li><p><a href="#-how-can-i-support-onix-and-the-client">Supporting the Client</a></p></li>
+
+<li><p><a href="#-do-i-get-beta-access-if-i-boost">BETA access on boost</a></p></li>
+
+<li><p><a href="#-how-do-i-apply-for-youtube-rolerank-in-the-discord-youtuber">Youtube role</a></p></li>
+
+<li><p><a href="#-i-need-the-onix-logo-for-a-thumbnail">Onix logo for thumbnails</a><br></p>
+
+<details>
+<summary>Common Issues</summary>
+
+<li><p><a href="#-when-i-open-the-client-i-get-an-error-saying-you-are-attempting-to-open-a-file-of-type-system-file-why-does-this-happen">You are attempting to open a file of type system file</a></p></li>
+
+<li><p><a href="#-when-i-inject-my-game-crashes-why-does-this-happen">Crashing on injecting</a></p></li>
+
+<li><p><a href="#-why-does-it-say-as-nobody-how-on-discord-instead-of-my-gamertag">Discord issue</a></p></li>
+
+<li><p><a href="#common-launcher-errors">Launcher issues</a></p></li>
+
+<li><p><a href="#-why-are-my-rainbow-modules-not-syncedin-time-with-each-other">Rainbow issues</a></p></li>
+
+<li><p><a href="#-why-dont-the-potionhud-icons-show-up">Potion HUD issue</a></p></li>
+
+<li><p><a href="#-my-antivirus-blocks-the-client">Antivirus issue</a>
+</details>
+</details></p></li>
+</ul>
+
 # [![Onix Client Logo](https://raw.githubusercontent.com/HugoNotHere/OnixClientFaq/main/onixlogosmall.png)](https://discord.gg/OnixClient) Onix Client FAQ
 
 Onix Client is a legit modification for Minecraft Bedrock Edition. Sometimes, you may need help setting it up, and this is what the FAQ is for. This has all of the common questions about Onix Client, installation, and usage. If you have any suggestions for this page, please fork this repository, edit it, and then create a pull request. Finally, if you have any other questions please join the Discord server and create a ticket there.
