@@ -228,12 +228,14 @@ Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+
 ```
 Client:
 ```
-Hitboxes are now smooth as youd expect
-Resizing is less likely to mess up your layout
-.txt -> ocfg convertion enabled again
-Freecam is now back in Creative Tools for 1.18.10+
-Audio subtitles is not availible on 1.18.30+
-Added 1.18.30 support
+Fixed "Custom Crosshair" using image crosshairs
+Added an option to "Custom Crosshair" to use "Texture Pack" crosshair
+Fixed freecam for 1.18.12
+Fixed "Render Options" not being compatible with "Zoom" hide hand option
+Fixed "Item Physics" for 1.18.30/1.18.31 with item frames
+Fixed Darkness effect showing as "Unknown"
+Added the option to have round corners on most mods
+Added support for 1.18.31
 ```
 
 QOL fixes/tweaks:
