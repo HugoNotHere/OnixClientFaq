@@ -120,7 +120,7 @@ Hold CTRL + L.
 
 ## 💺 What's the latest version of the client?
 
-The current latest version is 2.72
+The current latest version is 2.75
 
 ## ⚙️ What features do we have in the client?
 
