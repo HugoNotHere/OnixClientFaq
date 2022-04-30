@@ -170,7 +170,7 @@ Client Side Nick (.nick)
 
 Say ```.help``` in chat for a complete list of Onix commands.
 
-## 🎥 How do I apply for YouTube Role/Rank in the Discord? (@Youtuber)?
+## 🎥 How do I apply for media Role/Rank in the Discord? (@Youtuber)?
 
 Requirements:
 - 750+ Subs
