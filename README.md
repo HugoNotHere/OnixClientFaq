@@ -175,14 +175,25 @@ Client Side Nick (.nick)
 
 Say ```.help``` in chat for a complete list of Onix commands.
 
-## 🎥 How do I apply for Media Role/Rank in the Discord? (@Youtuber)?
+## 🎥 How do I apply for Media Role/Rank in the Discord? (@Media)?
 
 Youtube Requirements:
-- 750+ Subs
+- 1k+ Subs
 - A video about Onix Client 
+- At least 10 videos
+- Level 10 in the onix client discord server
+- Regular engagement with the community
+- an average of 500 views per video
+- Active channel
 
 Twitch Requirements
 - 500 followers
+- An average of 150 viewers per stream
+- Active account
+- Level 10 in the onix client discord server
+- Regular engagement with the community
+
+other media platform applications will be reviewed manually
 
 If you meet any of the requirements, open a [ticket](https://discord.com/channels/814195071356370977/945717582269399050).
 
