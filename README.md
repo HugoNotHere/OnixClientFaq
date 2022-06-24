@@ -225,30 +225,11 @@ Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+
 ```
 Client:
 ```
+```
 Fixed 1.16.40/1.16.100 hitboxes (removed opacity setting)
 Added "Text Color Depends on Durability" option that  makes the text color go from green to red depending on the durability
 Added "Ping Counter"
 Added 1.19.2 support
-```
-
-QOL fixes/tweaks:
-- Re-enabled FPS showing in the Java Debug Menu
-- Fixed block position in Java Debug Menu occasionally reading inaccurately
-- Speed display now works properly when riding entities
-- Increased the creative tools block reach cap from 12 to 25
-- Renamed and clarified all module descriptions
-- Fixed rounding errors in Direction HUD
-- Fixed some instances where mod menu text would render invisible on 1.17.40 and 1.17.41
-
-Launcher:
-- Removed the taskbar icon
-- Fixed Discord Presence not updating because of the taskbar icon
-- Added logs for troubleshooting purposes, which are located in %localappdata%\Onix Launcher\Logs
-- RPC Error has been moved to the logs, and is no longer displayed as an error message
-- Custom DLL is now Insider Mode and can be toggled on/off by double clicking the Onix logo
-
-Miscellaneous:
-creative tools freecam is gone from 1.18.10/1.18.12 and future versions
 ```
 
 ## 🦠 My antivirus blocks the client.
