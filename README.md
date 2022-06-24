@@ -98,10 +98,6 @@ You have a version of Minecraft that is not supported. You can see this list of 
 
 An error occurred while trying to inject Onix Client. This may be due to your antivirus, however, we cannot quite pinpoint this issue to a cause. Please open a ticket if you have issues resolving this problem.
 
-## 🎨 How can I get Onix UI?
-
-It's being remade as of recently. You'll have to wait.
-
 ## 💰 How can I support Onix and the client?
 
 You can support us by [becoming a patron](https://www.patreon.com/onixclient). The perks are listed in the tiers. If you buy a tier, please don't hesitate to open a ticket to get your roles if the bot hasn't already synced them.
@@ -120,7 +116,7 @@ Hold CTRL + L.
 
 ## 💺 What's the latest version of the client?
 
-The current latest version is 2.75
+The current latest version is 2.82
 
 ## ⚙️ What features do we have in the client?
 
@@ -150,6 +146,7 @@ Speed Display
 Reach Display
 Combo Counter
 Pack Display
+Ping Counter
 Armor HUD
 Movable Paperdoll
 Flappy Bird
@@ -223,19 +220,15 @@ Download [this pack](http://www.mediafire.com/file/kqyjo9s9ld39nkn/No+Red+Arrow+
 
 ## 📋 Where can I find the latest changelog?
 
-### Changelog for OnixClient 2.70
+### Changelog for OnixClient 2.82
 
 ```
 Client:
 ```
-Fixed "Custom Crosshair" using image crosshairs
-Added an option to "Custom Crosshair" to use "Texture Pack" crosshair
-Fixed freecam for 1.18.12
-Fixed "Render Options" not being compatible with "Zoom" hide hand option
-Fixed "Item Physics" for 1.18.30/1.18.31 with item frames
-Fixed Darkness effect showing as "Unknown"
-Added the option to have round corners on most mods
-Added support for 1.18.31
+Fixed 1.16.40/1.16.100 hitboxes (removed opacity setting)
+Added "Text Color Depends on Durability" option that  makes the text color go from green to red depending on the durability
+Added "Ping Counter"
+Added 1.19.2 support
 ```
 
 QOL fixes/tweaks:
